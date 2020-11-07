@@ -6,7 +6,7 @@
   #grid ol {border-right: 5px solid orange; width:100px; margin: 0px; padding-top:25px}
 
   #grid{display: grid; grid-template-columns: 150px 1fr;}
-
+#link{color:gray}
   #grid #article{margin-left:40px}
 
 
